@@ -27,7 +27,7 @@ Styling: Responsive and visually appealing UI using Tailwind CSS.
 API Integration: Backend queries the Whois API (whoisxmlapi.com) and formats responses as specified.
 
 Project Structure
-
+---
 whois-lookup-app/
 ├── backend/
 │   ├── app.py
@@ -49,7 +49,7 @@ whois-lookup-app/
 │   │       └── ErrorMessage.jsx
 ├── .gitignore
 └── README.md
-
+---
 Prerequisites
 
 
